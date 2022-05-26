@@ -1,6 +1,7 @@
 header
 
-
+some text
+this is new feature branch
 
 git 
 
@@ -8,3 +9,4 @@ git
    74  git checkout -b feature-readme-instructions
    75* git bran
    76  git checkout master
+
